@@ -89,6 +89,6 @@ secure-auth-system-flask-jwt/
 
 ## 👨‍💻 Author
 
-**Subhadip Karmakar**
+**SUBHADIP KARMAKAR**
 
 ## ⭐ If you found this project useful, give it a star!
